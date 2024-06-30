@@ -7,7 +7,7 @@ I have just completed training as a data analyst, marking a reorientation in my 
 ## 🚀 My Projects
 
 Here is one of my repositories:
-- [GreenOps][(https://github.com/your_username/repository_name](https://github.com/cedrux/greenops.git)
+- [GreenOps][(https://github.com/cedrux/greenops.git)]
 
 ## ✅ My Languages
 
