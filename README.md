@@ -9,6 +9,15 @@ I have just completed training as a data analyst, marking a reorientation in my 
 Here is one of my repositories:
 - [Repository Name](https://github.com/your_username/repository_name)
 
+## ✅ My Languages
+
+| Rank | Language |
+|-----:|---------------|
+|     1|Python         |
+|     2|  SQL          |
+|     3|               |
+
+
 ## 📫 How to Reach Me
 
 You can contact me on LinkedIn:
