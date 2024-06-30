@@ -15,7 +15,7 @@ Here is one of my repositories:
 |-----:|---------------|
 |     1|Python         |
 |     2|  SQL          |
-|     3|               |
+
 
 
 ## 📫 How to Reach Me
